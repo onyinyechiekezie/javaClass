@@ -1,0 +1,12 @@
+PSEUDOCODES
+Stage1
+1.Prompt and collect three digit integers.
+2.Determine wether it is a palindrome integer.
+3.Display.
+
+Stage2
+1.Prompt the user to enter a three digit integer
+2.Collect it.
+3.Save each digit as digit1, digit2,digit3.
+4.If digit1 = digit3, Print digit1,digit2,digit3 is a palindrome.
+5.Else, print digit1,digit2,digit3 is not a palindrome.

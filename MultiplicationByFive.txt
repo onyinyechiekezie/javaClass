@@ -1,0 +1,8 @@
+PSEUDOCODES
+Stage1
+1.Prompt user to enter number of terms
+2.Collect it
+3.Save as  number
+4.Loop through numbers from 0 to number
+5.Inside the loop, display number * index 
+6.Print result.

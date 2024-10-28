@@ -1,0 +1,23 @@
+PSEUDOCODES(WATER)
+Stage1
+1.Prompt and collect amount of water in kilograms and initial and final temperature for the water using
+	Q=M*(final temperature-initial temperature)*4184
+M=weight of water in kilograms
+Temperature in degree celsius.
+Energy Q in joules.
+
+Stage2
+1.Prompt the user to enter amount of water in kilograms
+2.Collect it.
+3.Save as kilograms
+4.Prompt the user to enter initial temperature of water
+5.Collect it 
+6.Save as initial temperature
+7.Prompt the user to enter final temperature of water
+8.Collect it.
+9.Save as final temperature of water
+10.Calculate
+	kilograms*(final temperature-initial temperature)*4184
+11.Collect result
+12.Save as energy.
+13.Print energy.

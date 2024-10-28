@@ -1,0 +1,7 @@
+PSEUDOCODES(SQUARE FACE)
+Stage1
+1.Print horizontally +|| || || || ||+
+2.Print horizontally [   o     o   |]
+3.Print horizontally  |     ^      |
+4.Print horizontally  |   '---'    |
+5.Print horizontally  +------------+.

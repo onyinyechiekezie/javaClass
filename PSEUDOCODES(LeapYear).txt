@@ -1,0 +1,6 @@
+PSEUDOCODES
+1.Prompt user to enter a year
+2.Collect it
+3.Save as "year"
+4.If year % 4 = 0, print "year" is a leap year
+5.Else, print "year" is not a leap year.

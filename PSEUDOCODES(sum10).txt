@@ -1,0 +1,11 @@
+PSEUDOCODES
+1.Initialize counter
+2.Initialize sum
+3.while counter < 10, prompt user to enter a natural number.
+4.Collect it.
+5.Save as number.
+6.if counter <=10, calculate,
+	number + counter 
+7.Collect result
+8.Save as sum
+9.Print sum
