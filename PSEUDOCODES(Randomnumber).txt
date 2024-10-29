@@ -1,0 +1,7 @@
+PSEUDOCODES
+1.Prompt user to guess a number between 1 and 500
+2.Collect it.
+3.Save as guess
+4.If guess > random, print "Too high, try again",
+5.If guess < random, print "Too low, try again".
+6.If guess = random, print, "Congratulations, you guessed the right number".

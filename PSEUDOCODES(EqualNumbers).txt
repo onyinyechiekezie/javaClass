@@ -1,0 +1,6 @@
+PSEUDOCODES
+1.Prompt user to enter three numbers
+2.Collect it 
+3.Save each number as number1, number2, and number3
+4.if number1 = number2 and number3, print numbers are equal
+5.Else,print numbers are not equal

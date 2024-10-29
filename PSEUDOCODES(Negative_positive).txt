@@ -1,0 +1,10 @@
+PSEUDOCODES
+1.Prompt user to enter a number
+2.Collect it
+3.Save as number
+4.if number < 0, print negative
+5.if number > 0, print positive
+6.Else, print zero
+7.Ask if user wishes to continue
+8.if yes, begin from the top
+9.if no, end. 
