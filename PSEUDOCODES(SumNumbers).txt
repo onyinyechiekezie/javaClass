@@ -1,0 +1,9 @@
+PSEUDOCODES
+1.Prompt user to enter two numbers
+2.collect it
+3.Save as number1 and number2 respectively
+4.if number1 > number2, print "Greater"
+5.Calculate number1 + number2
+6.collect result
+7.Save as sum
+8.If sum is > 50, print even sum is done 

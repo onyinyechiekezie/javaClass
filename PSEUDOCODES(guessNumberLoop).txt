@@ -1,0 +1,10 @@
+PSEUDOCODES
+1.Initialize a viariable
+2.Save as guessnumber
+3.Prompt the user to enter a number
+4.Collect it 
+5.Save as number
+6.If number > 25, print "Too high, try again"
+7.Else if number < 15, print "Too low, try again" 
+8.Else if number == guessNumber, print "You guessed correctly".
+9.End program.
