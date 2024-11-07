@@ -36,12 +36,13 @@ public class NokiaMenu    {
    		case 2: System.out.println("Memory status");
           	break;
 		}
+		break;
    	case 9: System.out.println("Speed dials");
            break;
   	case 10: System.out.println("Voice tags");
            break;
         }
-
+    break;
    case 2:
    System.out.print("1.Write messages\n2.Inbox\n3.Outbox\n4.Picture messages\n5.Templates\n6.Smileys\n7.Message settings\n8.Info service\n9.Voice mailbox number\n10.Service command editor\n");
    int messages = input.nextInt();
@@ -74,7 +75,7 @@ public class NokiaMenu    {
 			case 3: System.out.println("Message validity");
 			break;
 			}
-			
+			break;
 	
 		case 2: System.out.println("Common");
 		int common = input.nextInt();
@@ -86,15 +87,15 @@ public class NokiaMenu    {
 			case 3: System.out.println("Character support");
 			break;
 			}
-		
-		}
+		break;
+		}break;
 	case 8: System.out.println("Info service");
 	   break;
 	case 9: System.out.println("Voice mailbox number");
 	   break; 
 	case 10: System.out.println("Service command editor");
 	   break;
-	}
+	}break;
    case 3:
    System.out.print("Chat\n");   
    int chat = input.nextInt();
@@ -102,7 +103,7 @@ public class NokiaMenu    {
    	switch(chat)  {
 	case 1: System.out.println("Chat");
 	   break;
-	}
+	}break;
    case 4:
    System.out.print("1.Missed calls\n2.Recieved calls\n3.Dialed number\n4.Erase recent call list\n5.Show call duration\n6.Show call cost\n7.Call cost settings\n8.Prepaid credit\n.");
    int callRegister = input.nextInt();
@@ -130,7 +131,7 @@ public class NokiaMenu    {
 			break;
 		case 5: System.out.println("Clear timers");
 			break;
-	     }
+	     }break;
    	case 6: System.out.println("Show call cost");
 	   	System.out.println("1.Last call cost\n2.All calls cost\n3.Clear counters");
            	int showCallCost = input.nextInt();
@@ -141,7 +142,7 @@ public class NokiaMenu    {
 			break;
 		case 3: System.out.println("Clear counters");
 			break;
-		}
+		}break;
    	case 7: System.out.println("Call cost settings");
 			System.out.print("\ncall cost limit\n2.Delivery report\n");
 			int callCostSettings = input.nextInt();
@@ -149,10 +150,10 @@ public class NokiaMenu    {
 			case 1:System.out.println("Call cost limit");
 			break;
 			case 2: System.out.println("Show cost in");
+			break;}
 			break;
    	case 8: System.out.println("Prepaid credit");
-			}
-
+   	break;}break;
    case 5:
    System.out.print("1.Ringing tone\n2.Ringing volume\n3.Incoming call alert\n4.Composer\n5.Message alert tone\n6.Keypad tones\n7.Warning and game tones\n8.Vibrating alert\n9.Screen saver\n");   
    int tones = input.nextInt();
@@ -177,7 +178,7 @@ public class NokiaMenu    {
 	case 9: System.out.println("Screen saver");
 	   break;
 	}
-
+  break;
    case 6:
    System.out.print("1.Call settings\n2.Phone settings\n3.Security settings\n4.Restore factory settings\n");
    int settings = input.nextInt();
@@ -198,7 +199,7 @@ public class NokiaMenu    {
 			break;
 		case 6:System.out.println("Automatic answer");
 			break;
-		}
+		}break;
 	case 2:System.out.println("Phone settings");
 	System.out.print("1.Language\n2.Cell info display\n3.Welcome note\n4.Network selection\n5.Lights\n6.Confirm SIM service actions\n");
 	int phoneSettings = input.nextInt();
@@ -215,7 +216,7 @@ public class NokiaMenu    {
 			break;
 		case 6:System.out.println("Confirm SIM service actions");
 			break;
-		}
+		}break;
 	case 3:System.out.println("Security settings");
 	System.out.print("1.PIN code request\n2.Call barring service\n3.Fixed dialling\n4.Closed user group\n5.Phone security\n6.Change access codes\n");
 	int securitySettings = input.nextInt();
@@ -232,38 +233,38 @@ public class NokiaMenu    {
 			break;
 		case 6:System.out.println("Change access codes");
 			break;
-		}
+		}break;
 	case 4:System.out.print("Restore factory settings\n");
 	System.out.print("Restore factory settings\n");
 	int restoreFactorySettings = input.nextInt();
 		switch(restoreFactorySettings)  {
 		case 1:System.out.println("Restore factory settings");
 			break;
-
+    }break;}
    case 7:System.out.print("Call divert\n");
 	int callDivert = input.nextInt(); 
 		switch(callDivert)  {
 		case 7 :System.out.println("Restore factory settings");
 			break;
-		}
+		}break;
    case 8:System.out.print("Games\n");
 	int games = input.nextInt();
 		switch(games)  {
 		case 1:System.out.println("Games");     
 			break;
-		}
+		}break;
    case 9:System.out.print("Calculator\n");
 	int calculator = input.nextInt();
 		switch(calculator)  {
 		case 1:System.out.println("calculator");
 			break;
-		}
+		}break;
    case 10:System.out.print("Reminders\n");
 	int reminders = input.nextInt();
 		switch(reminders)  {
 		case 1:System.out.println("reminders");
 			break;
-		}
+		}break;
    case 11: System.out.print("Clock\n");
 	    System.out.print("1.Alarm clock\n2.Clock settings\n3.Date setting\n4.Stopwatch\n5.Countdown timer\n6.Auto update of date and time\n");
 	    int clock = input.nextInt();
@@ -280,60 +281,23 @@ public class NokiaMenu    {
 			break;
 		case 6:System.out.println("Auto update of date and time");
 			break;
-		}
+		}break;
    case 12: System.out.print("Profile");
             int profile = input.nextInt();
-		switch(profiles)  {
+		switch(profile)  {
 		case 1:System.out.println("Profile");
 			break;
-		}
+		}break;
    case 13: System.out.print("SIM services");
             int simServices = input.nextInt();
 		switch(simServices)  {
 		case 1:System.out.println("SIM services");
 			break;
-		}
+		}break;
+	  
+	  }	
 
 
-
-
-
-
- 
-
-
-
-
-
-
-		
-
-
-
-		
-
-
-
-
-
-	}	
-
-
-	
-
-
-
-
-
-
-
-}
-}
-
-
-
-}
-
-}
+  }
 }
  
