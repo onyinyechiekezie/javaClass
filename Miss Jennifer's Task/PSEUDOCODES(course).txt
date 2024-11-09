@@ -1,0 +1,24 @@
+PSEUDOCODES(course)
+1.Prompt the user to choose a course
+2.save as "course" 
+3.create a switch case on course with case 1, case 2, case 3
+4.if user chooses case 1 on course, collect input from user
+5.save as "math"
+6.Create a switch case on math comprising of case 1, case 2, case 3
+7.if user chooses case 1, display freshman
+8.if user chooses case 2, display sophomore
+9.if user chooses case 3, display senior
+10.if user chooses case 2 on course, collect input from user.
+11.save as science
+12.Create a switch case on science comprising of case 1, case 2, case 3
+13.if user chooses case 1, display freshman
+14.if user chooses case 2, display sophomore
+15.if user chooses case 3, display senior
+16.if user chooses case 3 on course, collect input from user
+save as history
+17.Create a switch case on history comprising of case 1, case 2, case 3
+18.if user chooses case 1, display freshman
+19.if user chooses case 2, display sophomore
+20.if user chooses case 3, display senior
+
+

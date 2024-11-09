@@ -1,0 +1,7 @@
+PSEUDOCODES(AgeList)
+1.prompt user to age
+2.collect it 
+3.save as drivingAge
+4.if age = 18 and above, print vote
+5.if age = 16 and above, print drive
+6.if age = 21 and above, print drink

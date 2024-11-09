@@ -1,0 +1,8 @@
+PSEUDOCODE(Age)
+1.prompt user to enter age
+2.collect it 
+3.save as age
+4.if age = 0 and age <= 12, print child
+5.if  age = 13 or age <= 17, print Teen
+6.if age = 18 and age <= 64, print Adult
+7.if age > 65, print senior
