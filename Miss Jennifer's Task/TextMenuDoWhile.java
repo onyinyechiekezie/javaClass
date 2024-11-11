@@ -3,26 +3,26 @@ public class TextMenuDoWhile  {
 	public static void main(String[] args)  {
 	Scanner input = new Scanner(System.in);
 
-
+String choice = " ";
 do  {
 	
-	System.out.print("Choose an option\na)Add\nb)View\nc)Delete\nd)Quit\n");
-	reply = input.nextInt();
+	System.out.print("Choose an option\n1)Add\n2)View\n3)Delete\n4)Quit\n");
+	int reply = input.nextInt();
 
-	if(reply == a) {
+	if(reply == 1) {
 		System.out.println("You chose 'Add' ");
-	}else if(reply == b) {
+	}else if(reply == 2) {
 		System.out.println("You chose 'View' ");
-	}else if(reply == c) {
+	}else if(reply == 3) {
 		System.out.println("You chose 'Delete' ");
-	}else if(reply == d) {
+	}else if(reply == 4) {
 		System.out.println("You chose 'Quit' ");
 	}
 	System.out.print("Would you like to continue? Yes or No: ");
-	String reply = input.next();
+	choice = input.next();
 
 }
-while(reply.equals("yes"));
+while(choice.equals("yes"));
 
 
 
