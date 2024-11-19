@@ -29,3 +29,7 @@ PSEUDOCODES(Area)
 8.display area.
 
 
+
+write an app that simulates basic text menu with options like 1)Add 2)View 3)Delete 4)Quit. Use a loop to keep displaying the menu until the user chooses to quit. Each menu option should print a message indicating it was selected.
+
+
