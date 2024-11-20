@@ -1,5 +1,5 @@
 PSEUDOCODES(Weekdays)
 collect input from user
 save as choice
-display coice
+display choice
 

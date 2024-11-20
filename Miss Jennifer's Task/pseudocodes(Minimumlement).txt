@@ -1,0 +1,6 @@
+pseudocodes(Minimumlement)
+1.Collect array numbers
+2.initialize minimum =numbers[0]
+3.Loop though numbers[]
+4.If numbers[index] < minimum, minimum = numbers[index]
+5.Print minimum

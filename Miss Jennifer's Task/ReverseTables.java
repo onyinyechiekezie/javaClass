@@ -4,7 +4,7 @@ public class ReverseTables  {
 	Scanner input = new Scanner(System.in);
 
 
-	int counter = 5;
+	int counter = 6;
 	int count = 10;
 	while(counter >1)  {
 		System.out.print("Table "+counter+" \n");

@@ -1,0 +1,7 @@
+pseudocode(Sumarray)
+1.Collect an array.
+2.Save as numbers[]
+3.Initialize sum = 0.
+4.Loop through numbers[]
+5.Calculate sum of each element.
+6.Print sum 

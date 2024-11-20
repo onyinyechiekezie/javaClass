@@ -1,4 +1,4 @@
-PSEUDOCODES(TaxBracket)
+PSEUDOCODES
 1.prompt user to enter annual income
 2.collect it
 3.save as income

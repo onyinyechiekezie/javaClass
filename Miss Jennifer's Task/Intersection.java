@@ -8,7 +8,7 @@ public class Intersection  {
 		for(int counter = 0; counter < 4; counter++)  {
 			if(firstList[index] == secondList[counter])  {
 
-				System.out.println("Numbers that intersect are: " + firstList[index] + " " );
+				System.out.print("Numbers that intersect are: " + firstList[index] + " " );
 			}
 		}
 	}
