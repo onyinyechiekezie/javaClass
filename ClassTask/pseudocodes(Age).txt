@@ -1,0 +1,7 @@
+pseudocodes(Age)
+1.Collect input from user
+2.Save as age
+3.Loop through the length
+4.Using a switch case, if user chooses case1, print You're matured.
+5.If user chooses case 2, print You're a teenager
+6.If user chooses case 3, print You're a child
