@@ -14,7 +14,8 @@ public static void main(String[] args)   {
        System.out.println("input is correct");
     }
     else{
-       System.out.println("Input is incorrect");
+       System.out.println("Input is incorrect"+ " please do better nex time");
+	
     }
 }
 
