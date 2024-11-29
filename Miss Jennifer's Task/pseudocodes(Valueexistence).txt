@@ -1,0 +1,11 @@
+pseudocodes(Valueexistence)
+1.Collect array numbers
+2.Prompt user to enter a number
+3.Collect it.
+4.Save as value
+5.Loop through the numbers
+6.If value = numbers[index]
+7.Print Element found at "index"
+8.Else print Element not found 
+
+

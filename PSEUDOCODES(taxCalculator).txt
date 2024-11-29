@@ -1,0 +1,13 @@
+PSEUDOCODES
+1.Prompt user to enter citizen name
+2.Collect it
+3.Save as name
+4.Prompt user to enter citizen earning
+5.Collect it
+6.Save as earnings
+7.if earnings <= 30000, Calculate
+	earnings * taxRate1
+8.Display result
+9.if earnings > 30000, Calculate
+	earnings * taxRate2
+10.Display result

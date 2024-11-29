@@ -1,0 +1,14 @@
+PSEUDOCODES
+1.Prompt user to enter three numbers.
+2.Collect it
+3.Save each number as number1, number2, and number3 respectively.
+4.If number1>number2 and number3, print number1 as maximum
+5.else, print number1 as minimum
+6.If number2>number1 and number3, print number2 as maximum
+7.else, print number2 as minimum
+8.If number3>number2 and number1, print number3 as maximum
+9.else, print number3 as minimum
+10.Display minimum
+11.Display maximum
+
+

@@ -1,0 +1,11 @@
+PSEUDOCODES(largestSmallestLoop)
+1.Initialize
+	 largest = Double.NEGATIVE_INFINNITY
+2.Initialize
+	smallest = Double.POSITIVE_INFINITY
+3.Prompt user to enter as many number as posible.
+4.Collect it
+5.Save as number
+6.Using Math.max calculate largest	 6.Using Math.min calculate smallest
+7.Print largest
+8.Print smallest	 

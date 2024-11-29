@@ -1,0 +1,8 @@
+pseudocode(ReverseArray)
+1.Collect array of elements
+2.Save as numbers[]
+3.Loop through numbers
+4.Print numbers[index]
+5.Print "The revers is"
+6.Loop through numbers and subtract 1 from it
+7.Print numbers[counter] 

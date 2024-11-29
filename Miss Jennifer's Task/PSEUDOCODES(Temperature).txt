@@ -1,0 +1,7 @@
+PSEUDOCODES(Temperature)
+1.prompt user to enter a temperature in celcuis.
+2.collect it
+3.save as temperature
+4.if temperature < 10, print cold
+5.if temperature = 10 and temperature <= 25, print warm
+6.if temperature > 25, print hot

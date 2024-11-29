@@ -1,0 +1,8 @@
+PSEUDOCODES
+1.Initialize a viariable
+2.Save as guessnumber
+3.Prompt the user to enter a number
+4.Collect it 
+5.Save as number
+6.If number = guessnumber, print "You guessed correctly"
+7.Else, print "Not correct, try again later" 

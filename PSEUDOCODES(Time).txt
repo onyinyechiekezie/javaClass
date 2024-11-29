@@ -1,0 +1,11 @@
+Miss jenny's classwork
+In a company, worker efficiency is determined on the basis of the time required for a worker to complete a particular job. if the time taken by the worker is between 2 to 3 hrs, then the worker is said to be highly efficient. if the time required by the worker is between  3 to 4 hrs, then the worker is said to improve speed. if the time taken is between 4 to 5 hrs, the worker is given training to improve his speed, and if the time taken by the worker is more than 5 hrs, then the worker has to leave the company. if the time taken by the worker is input through the keyboard, find the efficiency of the worker.
+
+PSEUDOCODES
+1.Prompt user to enter time taken by the worker to complete a job.
+2.Collect it
+3.Save as time
+4.if time >= 2 and = 3, print worker is highly efficient
+5.if time >= 3 and = 4, print worker is improving in speed 
+6.if time >=4 and =5, print worker is giving trainig to improve speed
+7.if time = 5, print worker has to leave company. 

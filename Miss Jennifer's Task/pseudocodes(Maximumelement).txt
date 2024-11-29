@@ -1,0 +1,6 @@
+pseudocodes(Maximumelement)
+1.Collect array numbers
+2.initialize maximum = 0
+3.Loop though numbers[]
+4.If numbers[index] > maximum, maximum = numbers[index]
+5.Print maximum

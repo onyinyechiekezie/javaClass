@@ -1,0 +1,7 @@
+pseudocodes(Intersection)
+1.initialize firstList[]
+2.Initialize secondList[]
+3.Loop through the array length(i.e 4) for outer loop
+4.Loop through the array length(i.e 4) for inner loop
+5.If firstList[index] = secondList[counter]
+6.Print firstList[index]

@@ -1,0 +1,5 @@
+pseudocodes(Integers)
+1.Collect input from user
+2.Save as value
+3.Loop through the length
+4.If value >= 50, print you have been promoted

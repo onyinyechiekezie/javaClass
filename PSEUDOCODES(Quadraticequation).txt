@@ -1,0 +1,18 @@
+PSEUDOCODES
+1.Prompt user to enter three numbers.
+2.Store each number separately as number1, number2, number3
+3.calculate
+	number2*number2-4*number1*number3
+4.Collect result.
+5.Save as determinant
+6.Calculate
+	  (-number2 + Math.sqrt(determinant) / 2 * number1);
+7.Collect result
+8.Save as root1
+9.Calculate
+	  (-number2 - Math.sqrt(determinant) / 2 * number1);
+10.Collect result
+11.Save as root2
+12.print root1
+13.print root2
+	

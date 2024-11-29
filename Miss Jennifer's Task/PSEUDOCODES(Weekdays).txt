@@ -1,0 +1,5 @@
+PSEUDOCODES(Weekdays)
+collect input from user
+save as choice
+display choice
+

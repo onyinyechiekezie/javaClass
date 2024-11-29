@@ -1,0 +1,16 @@
+PSEUDOCODES
+1.Prompt user to enter first number
+2.Collect it
+3.Save as firstNumber
+4.Prompt user to enter second number
+5.Collect it
+6.Save as secondNumber
+7.Prompt user to collect third number
+8.Collect it
+9.Save as thirdNumber
+10.if firstNumber>secondNumber and thirdNumber
+11.Print firstNumber is greatest
+12.if secondNumber>firstNumber and thirdNumber
+13.Print secondNumber is greatest
+14.if thirdNumber>firstNumber and secondNumber
+15.Print thirdNumber is greatest

@@ -1,0 +1,21 @@
+PSEUDOCODES
+1.Prompt user to enter a floating point number
+2.Collect it
+3.Save as number1
+4.Prompt user to enter second floating point number.
+5.Collect it
+6.Save as number2
+7.Multiply number1 by 1000 to shift the decimal point three places.
+8.Collect result
+9.Save as floatingPoint1
+10.Multiply number2 by 1000 to shift the decimal point three places.
+11.Collect result
+12.Save as floatingPoint2
+13.Round floatingPoint1 to the nearest integer
+14.Save as floatingPoint_1 
+15.Round floatingPoint2 to the nearest integer
+16.Save as floatingPoint_2
+17.If floatingPoint_1 = floatingPoint_2, print "Numbers are the same".
+18.Else, print "Numbers are different". 
+
+

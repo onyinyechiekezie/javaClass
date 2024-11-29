@@ -1,0 +1,4 @@
+PSEUDOCODES(RankAward)
+1.collect input from user
+2.save as rank
+3.display rank

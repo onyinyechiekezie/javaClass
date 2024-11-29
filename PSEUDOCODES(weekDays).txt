@@ -1,0 +1,11 @@
+PSEUDOCODES
+1.Prompt user to enter a number from 1 to 7
+2.Collect it 
+3.Save as number
+4.if number=1, print Sunday
+5.if number=2, print Monday
+6.if number=3, print Tuesday
+7.if number=4, print Wednesday
+8.if number=5, print Thursday
+9.if number=6, print Friday
+10.if number=7, print Saturday

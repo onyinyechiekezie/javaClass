@@ -1,0 +1,8 @@
+pseudocodes(Duplicateelement)
+1.Collect array elements
+2.Save as numbers[]
+3.Print "Duplicate values are:"
+4.Loop through numbers[]
+5.Create an inner loop, initialize counter = index + 1 loop through numbers.
+6.If number[index] = numbers[counter] and index != counter
+7.Print numbers[counter]

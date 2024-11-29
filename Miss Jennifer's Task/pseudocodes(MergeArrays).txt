@@ -1,0 +1,16 @@
+pseudocodes(MergeArrays)
+1.Collect array numbers
+2.Save as numbers1[]
+3.Collect array numbers
+4.Save as numbers2[]
+5.initialize numbers1lenghth = numbers1.length
+6.initialize numbers2lenghth = numbers2.length
+7.initialize numbers3lenghth = numbers1length + numbers2length
+8.initialize numbers3 = new int[numbers3length]
+9.Loop through numbers1
+10.numbers3[index] = numbers1[index]
+11.Loop through numbers2
+12. numbers3[numbers1.length + index] = numbers2[index]
+13.Loop through numbers3length
+14.Print numbers3[index]
+

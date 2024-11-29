@@ -1,0 +1,13 @@
+PSEUDOCODES(departments)
+1.Prompt the user to choose a department
+2.save as "department" 
+3.create a switch case on department with case 1, case 2, case 3
+4.if user chooses case 1, collect input from user
+5.save as "it"
+6.display it
+7.if user chooses case 2, collect input from user.
+8.save as hr
+9.display hr
+10.if user chooses case 3, collect input from user
+11.save as finance
+12.display finance

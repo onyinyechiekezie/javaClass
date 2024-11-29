@@ -1,0 +1,13 @@
+PSEUDOCODES(LENGTH)
+Stage1
+1.Prompt the user to enter take-off(v) speed in meter per second.
+2.Collect it.
+3.Save as speed.
+4.Prompt the user to enter acceleration (a) in meter per second square.
+5.Collect it.
+6.Save as acceleration
+7.Calculate,
+	speed*speed/2*acceleration.
+8.Collect result.
+9.Save as length
+10.Display length.

@@ -1,0 +1,10 @@
+PSEUDOCODES(KILOGRAMS)
+Stage1
+1.Prompt the user to enter a number in pounds
+2.Collect it.
+3.Save as pounds
+4.Calculate,
+	pounds * 0.454
+5.Collect result.
+6.Save as kilograms
+7.Display kilograms.

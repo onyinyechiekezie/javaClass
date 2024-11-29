@@ -1,0 +1,35 @@
+PSEUDOCODES(Area)
+1.Prompt the user to choose a shape
+2.save as "choice" 
+3.create a switch case on choice with case 1, case 2, case 3
+4.if user chooses case 1 on choice, prompt user to enter an option
+5.collect input from user
+5.save as "raduis"
+6.calculate 3.14 * Math.pow(radius,2)
+7.save result as area
+8.display area.
+9.if user chooses case 2 on choice, prompt user to enter an option
+10.collect input from user
+11.save as "length"
+12prompt user again to enter an option
+13.collect input
+14.save as breadth
+15.calculate length * breadth
+16.collect result
+17.save as area
+18.display area.
+4.if user chooses case 3 on choice, prompt user to enter an option
+5.collect input from user
+5.save as "base"
+12.prompt user again to enter an option
+13.collect input
+14.save as height
+15.calculate (base * height) / 2
+7.save result as area
+8.display area.
+
+
+
+write an app that simulates basic text menu with options like 1)Add 2)View 3)Delete 4)Quit. Use a loop to keep displaying the menu until the user chooses to quit. Each menu option should print a message indicating it was selected.
+
+

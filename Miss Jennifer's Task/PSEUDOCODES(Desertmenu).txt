@@ -1,0 +1,24 @@
+PSEUDOCODES(Desertmenu)
+1.Prompt the user to choose a desert type
+2.save as "choice" 
+3.create a switch case on choice with case 1, case 2, case 3
+4.if user chooses case 1 on choice, collect input from user
+5.save as "icecream"
+6.Create a switch case on icecream comprising of case 1, case 2, case 3
+7.if user chooses case 1, display chocolate
+8.if user chooses case 2, display vanilla
+9.if user chooses case 3, display strawberry
+10.if user chooses case 2 on choice, collect input from user.
+11.save as sundae
+12.Create a switch case on sundae comprising of case 1, case 2, case 3
+13.if user chooses case 1, display chocolate
+14.if user chooses case 2, display vanilla
+15.if user chooses case 3, display strawberry
+16.if user chooses case 3 on choice, collect input from user
+save as shake
+17.Create a switch case on sundae comprising of case 1, case 2, case 3
+18.if user chooses case 1, display chocolate
+19.if user chooses case 2, display vanilla
+20.if user chooses case 3, display strawberry
+
+

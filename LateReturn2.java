@@ -1,0 +1,30 @@
+import java.util.Scanner;
+public class LateReturn2 {
+public static void main(String[] args) {
+
+Scanner input = new Scanner(System.in);
+String response = " "; 
+do  {
+  System.out.print("Enter a date to return book: ");
+  int date = input.nextInt();
+
+if(date <=5) {
+   System.out.print("Fine is 50 paise");
+}else if(date <=10) {
+   System.out.print("Fine is one rupee");
+}else if(date <=30)  {
+   System.out.print("Fine is 5 rupees");
+}else if(date >30)  {
+   System.out.print("Your membership has been cancelled");
+}
+   System.out.print("Do you want to continue? ");
+   response = input.next();
+
+while(response.equals("yes"));
+
+}
+} 
+
+
+
+

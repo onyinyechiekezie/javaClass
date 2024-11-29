@@ -1,0 +1,21 @@
+PSEUDOCODES
+Stage1
+1.Prompt and collect five numbers
+2.Determine and print the number of negative numbers and positive numbers and number of zero input.
+
+Stage2
+1.Prompt the use to enter five numbers
+2.Collect the numbers
+3.Save as numbers
+4.Determine if numbers are negative if number < 0
+5.Collect negative numbers.
+6.Save as negative numbers
+7.Print negative numbers
+8.If numbers > 0
+9.Collect it 
+10.Save as positive
+11.Print positive
+12.If numbers = 0
+13Collect it
+14.Save as zeros
+15.Print zero.

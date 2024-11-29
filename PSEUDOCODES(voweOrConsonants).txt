@@ -1,0 +1,10 @@
+PSEUDOCODES
+1.Prompt user to enter an alphabet
+2.Collect it.
+3.Save as alphabet
+4.If alphabet length is not equal to 1, print "Error. Input should be a single alphabet.
+5.If alphabet does not equal a-z, print "Error. Input should be a letter.
+6.Initialize 
+	letter == alphabet
+7.If letter is equal to a,e,i,o,u, print "alphabet is a vowel.
+8.Else, print "alphabet is consonant. 

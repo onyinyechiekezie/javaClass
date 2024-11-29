@@ -1,0 +1,20 @@
+PSEUDOCODES
+Stage1
+1.Prompt the user to enter investment value
+2.Collect it
+3.Save as investmentAmount
+4.Prompt the user to enter annual interest rate
+5.Collect it
+6.Save as annualInterestRate
+7.Prompt the user to enter number of years
+8.Collect it
+9.Save as numberOfYears
+10.Calculate
+	(annualInterestRate/12) / 100
+11.Collect result
+12.Save as monthlyInterestRate
+13.Calculate
+	investmentAmount*(1+monthlyInterestRate)^numberOfYears*12
+14.Collect result
+15.Save as futureInvestmentValue
+16.Display futureInvestmentValue

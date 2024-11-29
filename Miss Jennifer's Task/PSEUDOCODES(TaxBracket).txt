@@ -1,0 +1,9 @@
+PSEUDOCODES
+1.prompt user to enter annual income
+2.collect it
+3.save as income
+4.if income = 0 and <= 9875 : 10%
+5.if income = 9876 <= 40125: 12%
+6.if income = 40126 <= 85525, print 22%
+7.if 85526 and above, print 24%
+8.display applicable tax rate based on their income

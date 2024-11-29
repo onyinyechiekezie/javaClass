@@ -1,0 +1,6 @@
+PSEUDOCODES
+1.Prompt the user to enter a number 
+2.Collect it
+3.Save as number
+4.if number%2=0, print 1
+6.if number%2 !=0, print odd.
