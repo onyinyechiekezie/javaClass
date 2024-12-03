@@ -23,13 +23,15 @@ public class StudentGrades  {
 				scores = new int[score];
 			
 			}
-		
-		input.nextLine();
+		} 
+		for(int index = 1; index <=numberOfStudents.length; index++) {
+			numberOfStudent[index] = numberOfStudents[index];
+		}
 		printLine();	
 		System.out.printf("%s\t\t%s\t%s\t%s\t%s\t%s\t\t%s%n","STUDENT","SUB1","SUB2","SUB3","TOT","AVERAGE","POS");
 		printLine();
-		System.out.printf("%s","Student",numberOfStudents[0] );
-		}	
+		System.out.printf("%s","Student",numberOfStudent[0] );
+			
 	}	
 	public static void printSave(){
 		System.out.print("Saving >>>>>>>>>>>>>>>>>>>>>\nSaved successfully\n");
