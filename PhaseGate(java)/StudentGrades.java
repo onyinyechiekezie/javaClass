@@ -15,7 +15,6 @@ public class StudentGrades {
         int[][] scores = new int[numberOfStudents][numberOfSubjects];
         int[] total = new int[numberOfStudents];
         double[] average = new double[numberOfStudents];
-	int [] sortedArray = new int[numberOfStudents]; 
 
         for (int index = 0; index < scores.length; index++) {
             System.out.println("Entering scores for student " + (index + 1));
@@ -23,7 +22,7 @@ public class StudentGrades {
                 System.out.println("Enter score for subject " + (counter + 1) + ":");
                 scores[index][counter] = input.nextInt();
                 printSave();
-            }
+            } 
         }
 
         for (int index = 0; index < scores.length; index++) {
@@ -32,7 +31,6 @@ public class StudentGrades {
                 sum += scores[index][counter];
             }
             total[index] = sum;
-	    sortedArray[index] = sum;
             average[index] = (double) sum / numberOfSubjects;
         }
 
@@ -47,7 +45,7 @@ public class StudentGrades {
         printLine();
 
         for (int index = 0; index < scores.length; index++) {
-            System.out.printf("%-10s", "Student " + (index + 1));
+            System.out.printf("%9s", "Student " + (index + 1));
             for (int counter = 0; counter < scores[index].length; counter++) {
                 System.out.printf("\t%d", scores[index][counter]);
             }
