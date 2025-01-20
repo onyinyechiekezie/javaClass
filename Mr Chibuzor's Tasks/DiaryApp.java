@@ -69,7 +69,7 @@ public class DiaryApp {
 	}
 
 	public static void lockDiary() {
-		if(isDiaryUser) {
+		if(isDiaryLocked == false) {
 			isDiaryLocked = true;
 			System.out.print("Diary has been locked successfully\n");
 		}else{
@@ -102,7 +102,7 @@ public class DiaryApp {
 	
 	public static void addEntry() {
 		Scanner input = new Scanner(System.in);
-		if(!isDiaryUser) {
+		if(!isDiaryLocked == false) {
 			System.out.print("Cannot perform action. Either diary user has not been created or diary is locked\n");
 		}else if(count < entries.length - 1){
 			System.out.print("Enter entry number. e.g 1, 2, 3\n");
@@ -121,7 +121,7 @@ public class DiaryApp {
 		String entryNumber = input.nextLine();
 		for(int index = 0; index < count; index++){
 			if(id[index].equals(entryNumber)){
-				System.out.print("Entry ID:" + "\n" + id[index] + "\n");
+				System.out.print("Entry ID:" +ss "\n" + id[index] + "\n");
 				System.out.print("Entry:" + "\n" + entries[index] + "\n");
 			}else{
 				System.out.print("Entry not found");
