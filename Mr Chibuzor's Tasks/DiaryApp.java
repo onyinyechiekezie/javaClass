@@ -121,7 +121,7 @@ public class DiaryApp {
 		String entryNumber = input.nextLine();
 		for(int index = 0; index < count; index++){
 			if(id[index].equals(entryNumber)){
-				System.out.print("Entry ID:" +ss "\n" + id[index] + "\n");
+				System.out.print("Entry ID:" + "\n" + id[index] + "\n");
 				System.out.print("Entry:" + "\n" + entries[index] + "\n");
 			}else{
 				System.out.print("Entry not found");
